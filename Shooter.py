@@ -1,6 +1,7 @@
 from pygame import *
 from random import randint
 from time import time as timer
+import languages
 
 #!  pyistaller --onefile Shooter.py
 
